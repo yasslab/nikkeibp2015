@@ -1,0 +1,6 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+sample:
+  name: Yohei Yasukawa
+  email: yohei@yasslab.jp
+
