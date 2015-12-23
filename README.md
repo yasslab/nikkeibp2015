@@ -2,11 +2,36 @@
 
 途中から連載を読み始めた方は、こちらのコードを使ってください。
 
+## Cloud9のセットアップ方法
+
+Cloud9のセットアップがまだの方は、
+Railsチュートリアルの1.2.1項「[開発環境](http://railstutorial.jp/chapters/beginning?version=4.2#sec-up_and_running)」に従ってCloud9をセットアップください。
+
+Railsチュートリアル 1.2.1 開発環境   
+http://railstutorial.jp/chapters/beginning?version=4.2#sec-up_and_running
+
+
 ## ダウンロード方法
 
-Cloud9上のターミナルで次のコマンドを実行してください。
+Cloud9上のターミナルで、次のコマンド群を実行してください。
 
-`git clone https://github.com/yasslab/nikkeibp2015.git`
+```bash
+$ cd ~/workspace
+$ git clone https://github.com/yasslab/nikkeibp2015.git
+Cloning into 'nikkeibp2015'... 
+... (以下、省略) ...
+
+$ cd nikkeibp2015
+$ bundle install
+Using rake 10.4.2
+Using i18n 0.7.0
+Using json 1.8.3
+... (以下、省略) ...
+```
+
+これで準備完了です :)    
+あとは連載記事に従って読み進めてください。
+
 
 ## 関連リンク
 
