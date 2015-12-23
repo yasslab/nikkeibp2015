@@ -5,9 +5,9 @@
 ## Cloud9のセットアップ方法
 
 Cloud9のセットアップがまだの方は、
-Railsチュートリアルの1.2.1項「[開発環境](http://railstutorial.jp/chapters/beginning?version=4.2#sec-up_and_running)」に従ってCloud9をセットアップください。
+Railsチュートリアルの1.2節「[さっそく動かす](http://railstutorial.jp/chapters/beginning?version=4.2#sec-up_and_running)」に従ってCloud9をセットアップください。
 
-Railsチュートリアル 1.2.1 開発環境   
+Railsチュートリアル 1.2 さっそく動かす   
 http://railstutorial.jp/chapters/beginning?version=4.2#sec-up_and_running
 
 
