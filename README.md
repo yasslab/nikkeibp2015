@@ -10,7 +10,7 @@ Cloud9上のターミナルで次のコマンドを実行してください。
 
 ## 関連リンク
 
-- [日経ソフトウェア](http://ec.nikkeibp.co.jp/item/magazine/NSW.html)
+- [日経ソフトウェア (2016年1月号)](http://ec.nikkeibp.co.jp/item/backno/SW1212.html)
 - [Railsチュートリアル](http://railstutorial.jp)
 - [Railsガイド](http://railsguides.jp)
 
